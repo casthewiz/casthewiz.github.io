@@ -1,0 +1,18 @@
+@font-face{
+font-family:"Bazar";
+src: url("../res/Bazar.ttf") format("truetype");
+}
+
+@font-face {
+font-family: "Baron Neue";
+src: url("../res/Baron Neue.otf") format("opentype");
+}
+
+h1{
+  color: "624107";
+  font-style: italic;
+}
+
+h2{
+  color: "blue";
+}

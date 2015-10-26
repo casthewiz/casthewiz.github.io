@@ -1,0 +1,67 @@
+
+body {
+  background-color: #C0C0C0;
+}
+
+.magnum{
+  font-size: 48px;
+  margin: 20px 0px;
+}
+
+.white-bg{
+  width: 100%;
+  padding: 10px;
+  background-color: white;
+  box-sizing: border-box;
+}
+
+.similar-item{
+    float:left;
+    width: 240px;
+    height: 240px;
+    margin: 10px;
+    border-style: solid;
+    border-color: #eee;
+    border-width: 1px;
+    padding: 5px;
+    text-align: center;
+}
+
+.strong-red{
+    color: red;
+    margin: 20px 0px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.spaced-anchor{
+    display:block;
+    margin: 5px;
+    font-size: 14px;
+}
+
+.button-buy{
+    padding:10px 40px;
+    margin: 0px 10px;
+    font-weight: bold;
+    color: blue;
+}
+
+.button-box{
+    padding: 10px 20px;
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+}
+
+td{
+    padding: 5px;
+}
+
+.first{
+    font-weight: bolder;
+}
+
+.navbar{
+  width:99.9%;
+}
